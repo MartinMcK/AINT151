@@ -1,0 +1,29 @@
+h1
+{
+  font-family:"sans-serif";
+}
+P
+{
+  color:Grey;
+}
+img {
+    width:100px;
+    border-style:dashed;
+    border-width:5px;
+    border-color:blue;
+}
+ul {
+    width:100px;
+}
+
+ul>li{
+      Padding:0px;
+      border-style:solid;
+      border-color:black;
+      border-width:1px;
+}
+box{
+    background-color:blue;
+    width:100px;
+    length:100px;
+}
