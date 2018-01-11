@@ -1,0 +1,51 @@
+#container
+{
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#header
+{
+  height: 70px;
+  width: 900px;
+  background-color: grey;
+  margin-bottom: 10px;
+}
+
+#leftmenu{
+  height: 500px;
+  width: 245px;
+  background-color: grey;
+  float: left;
+  margin-right: 10px;
+}
+
+#rightmenu{
+  height:500px;
+  width: 245px;
+  background-color: grey;
+  float: left;
+  margin-left: 10px
+}
+
+#maincontent
+{
+  height: 500px;
+  width: 390px;
+  background-color: grey;
+  float: left;
+}
+
+div.clear
+{
+  clear: both;;
+}
+
+#footer
+{
+  width: 900px;
+  height: 30px;
+  background-color: purple;
+  margin-top: 10px;
+}

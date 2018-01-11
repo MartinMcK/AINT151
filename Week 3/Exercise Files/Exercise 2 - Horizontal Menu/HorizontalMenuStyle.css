@@ -1,0 +1,27 @@
+#menu{
+      /*position: absolute;*/
+      background: grey;
+      padding-left: 0;
+      list-style-type: none;
+}
+
+li{
+  display: inline;
+  float: left;
+  background-color: #A569BD;
+}
+
+a{
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+li:hover{
+  background-color: #6C4383;
+}
+
+a:hover{
+  color: black;
+}

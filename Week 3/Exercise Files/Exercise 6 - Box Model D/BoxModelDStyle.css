@@ -1,0 +1,34 @@
+#container
+{
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  width: 900px;
+
+}
+
+#Header
+{
+  height: 70px;
+  width: 900px;
+  background-color: purple;
+
+}
+
+#rightmenu
+{
+  float: right;
+  height: 430px;
+  width: 290px;
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  margin-top: 10px;
+}
+
+div.leftitem
+{
+  float: left;
+  height: 100px;
+  width: 600px;
+  background-color: grey;
+  margin: 10px 0px 0px 0px;
+}

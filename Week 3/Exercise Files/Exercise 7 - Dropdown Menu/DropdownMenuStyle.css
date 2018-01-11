@@ -1,0 +1,28 @@
+ul
+{
+  text-decoration: none;
+}
+#menu, #menu, ui
+{
+
+  text-decoration: none;
+  background-color: blue;
+}
+#menu>li
+{
+  position: relative;
+  float: left;
+}
+#menu>li>ul
+{
+  display: none;
+  position: absolute;
+}
+#menu>li:hover ul
+{
+  display: block;
+}
+ul:hover
+{
+  display: block;
+}

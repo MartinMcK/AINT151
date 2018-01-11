@@ -1,0 +1,36 @@
+#container
+{
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#header
+{
+  width: 900px;
+  height: 70px;
+  background-color: grey;
+  margin-bottom: 10px;
+}
+
+div.box
+{
+  float: left;
+  height: 81px;
+  width: 81px;
+  background-color: grey;
+  margin: 0px 10px 10px 0px;
+
+}
+
+div.clear
+{
+  clear: both;
+}
+
+#footer{
+  margin-top: 10px;
+  height: 30px;
+  width: 900px;
+  background: grey;
+}
