@@ -1,0 +1,46 @@
+body, html {
+  height: 100%
+}
+body{
+  background-image: url("homepage.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3{
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  font-family: impact, charcoal, sans-serif;
+  -webkit-text-stroke:1px black;
+}
+p{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-family: Arial Black;
+}
+button{
+  display: inline-block;
+  border-radius: 8px;
+  border-style: none;
+  background-color: #FFFFFF;
+  color: #000000;
+  font-size: 28px;
+  padding: 10px 24px;
+  box-shadow: 0 12px 16px 0 rgba(255,255,255, 0.9), 0 17px 50px 0 rgba(255,255,255, 0.9);
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 10px;
+}
+button:hover{
+  background-color: #FFDEAD;
+  color:white;
+}
+#roomChoices
+{
+  text-align: center;
+}
